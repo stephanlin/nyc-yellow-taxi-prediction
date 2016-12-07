@@ -16,9 +16,9 @@
   * Input: day of week, month
   * Output: best blocks
 
-#### 2. Can we accurately predict the closest block that will get the driver the highest tips based on the time of the day and day of the week?
-  * Input: time of the day, day of the week, driver’s location
-  * Output: closest block to the driver’s location
+#### 2. What is the closest location within a specific distance that will get driver the highest tip based on time of the day and day of the week?
+  * Input: time of the day, day of the week, driver’s location, distance range
+  * Output: closest spot to the driver’s location
 
 #### 3. Can we accurately predict how much tips a driver will get based on pick-up location, the distance traveled to destination and time spent?
   * Input: pick-up location, trip distance, trip duration
