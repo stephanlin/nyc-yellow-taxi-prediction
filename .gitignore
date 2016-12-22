@@ -2,6 +2,3 @@
 .ipynb_checkpoints/
 datasets/*
 !datasets/block-groups-polygons.geojson
-
-Q3 1 Examining the Original Data
-Q3 2 Cleaning the data for KNN
