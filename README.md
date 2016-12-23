@@ -1,5 +1,7 @@
-# *NYC Yellow Taxi Prediction*
+# NYC Yellow Taxi Prediction
 *To analyze NYC Yellow Taxi dataset to help taxi companies to maximize their utilization by diverting the cabs into the locations during specific times and help taxi drivers to make more profits.*
+
+## [Project Screencast Video](https://www.youtube.com/watch?v=4MkDi-Jz3ac)
 
 ## Group Members
 * [Shenghua You](https://github.com/shenghuayou), shenghuayou@gmail.com
